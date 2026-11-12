@@ -1,3 +1,4 @@
+![Uploading 软件截图.png…]()
 # 桌面壁纸微调切换器 (WallpaperChanger)
 
 **作者署名**：成遇知 | YouTube：[www.youtube.com/@cyzhi](https://www.youtube.com/@cyzhi)  
